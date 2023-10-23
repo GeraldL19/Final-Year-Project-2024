@@ -19,8 +19,11 @@ Transfer learning: using pre train model and making them adapt to this datastet
   **Wildlife camera Trap and deep learning models:** https://colab.research.google.com/drive/1QIoWzvai6tVGXouaa032ToV8SDEOb6h9?usp=sharing#scrollTo=IuhFzz5CvJUr
   
   **Land use classification:** https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
+  
   https://www.climatechange.ai/tutorials?
+  
     https://colab.research.google.com/drive/1nOL7rB8EnFTvLoarerVOtECYBwJKth-t?usp=sharing
+    
     https://colab.research.google.com/drive/1fOV9_Vjj2-USH-F_iWGqPpd0kSz2y3aw?usp=sharing#scrollTo=N8JfmJxa043J
 
 **Movie Recommendation system:** MovieLens
