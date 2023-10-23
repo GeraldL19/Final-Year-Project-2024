@@ -6,7 +6,9 @@
   Manualy labelling 500 sentiences/articles
   Trying different models both supervised and unsupervised BERT
 
-Transfer learning: using pre train model and making them adapt to this datastet
+https://www.swisstext.org/shared-task-1-detecting-greenwashing-signals-through-a-comparison-of-esg-reports-and-public-media/
+
+**Transfer learning**: using pre train model and making them adapt to this datastet
 
 **Image Classification**:
 
