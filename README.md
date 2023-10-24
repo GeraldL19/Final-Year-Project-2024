@@ -17,7 +17,8 @@ https://www.swisstext.org/shared-task-1-detecting-greenwashing-signals-through-a
     Dataset available
   
   Image classification of natural scenes: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
-
+  Wild Fire detection
+  
   **Wildlife camera Trap and deep learning models:** https://colab.research.google.com/drive/1QIoWzvai6tVGXouaa032ToV8SDEOb6h9?usp=sharing#scrollTo=IuhFzz5CvJUr
   
   **Land use classification:** https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
